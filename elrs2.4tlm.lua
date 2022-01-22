@@ -1,9 +1,12 @@
 ----------------------------------------------------------------------
 -- Original script by Andrew Farley - farley@neonsurge(dot)com
 -- Git: https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard
---
+-- 
 -- Optimization and modding by Alexey Gamov - dev@alexey-gamov(dot)ru
 -- Git: https://github.com/alexey-gamov/opentx-quad-telemetry
+--
+-- Optimization and modding ELRS by system Artem Khagazheev
+-- Git: https://github.com/Kiriodozaki/TXscript
 ----------------------------------------------------------------------
 
 -- Tune this section before using script (no need for crossfire users)
