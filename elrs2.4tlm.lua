@@ -9,8 +9,7 @@
 -- Git: https://github.com/Kiriodozaki/TXscript
 ----------------------------------------------------------------------
 
--- Tune this section before using script (no need for crossfire users)
--- Targets for 3pos switch: 0-50-100. Battery option: VFAS, Cels, RxBt 
+
 
 local settings = {
 	arm = {switch = 'sd', target = 100},
